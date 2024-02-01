@@ -21,3 +21,10 @@ To create an admin account run:
 ## Run Application
 
 Run `php artisan serve` or open project from browser: `http://localhost/laravel-project/public`.
+
+## Topics
+
+- [Middleware](https://laravel.com/docs/10.x/middleware)
+- [Error Handling](https://laravel.com/docs/10.x/errors)
+- [Authentication](https://laravel.com/docs/10.x/authentication)
+- [Hashing](https://laravel.com/docs/10.x/hashing)
